@@ -1,0 +1,4 @@
+data/PololuLedStrip.cpp.i
+data/PololuLedStrip.h.i
+data/PololuLedStrip.lib.i
+data/led_strip_write_color.s.i
